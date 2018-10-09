@@ -5,4 +5,4 @@
 - To run project:
   - yarn start
 - To make minified build:
-  - yarn build
+  - yarn build (built files are in the `build` folder)
